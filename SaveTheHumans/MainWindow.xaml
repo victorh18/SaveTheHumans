@@ -18,6 +18,7 @@
             <RowDefinition/>
             <RowDefinition Height="160"/>
         </Grid.RowDefinitions>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="20,130,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Page>
